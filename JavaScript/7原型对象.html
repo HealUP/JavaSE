@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        //创建对象  包含方法和属性
+        var student = {//属性
+            name: "deng",
+            age: 23,
+            eat: function (){//方法
+                console.log(this.name + " eating...");
+            }
+        };
+        var s1 = {
+            name: "xiaolan"
+        }
+
+        // 原型对象  s1的原型是student
+        s1.__proto__ = student;
+    </script>
+</head>
+<body>
+
+</body>
+</html>

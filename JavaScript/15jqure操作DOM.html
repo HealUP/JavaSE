@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!--下载到项目后导入-->
+    <script src="lib/jquery-3.6.0.js"></script>
+</head>
+<body>
+    <ul id="test">
+        <li class="js">
+            javascript!
+        </li>
+        <li name="java">
+            java!
+        </li>
+    </ul>
+
+<script>
+    // $('#test li[class=js]').text('JavaScript!');//修改
+    $('#test li[class=js]').text();//查看
+    $('#test li[name=java]').html('<strong>Java!</strong>')
+    $('#test li[name=java]').hide();//隐藏
+    $('#test li[name=java]').show();
+
+
+    //测试
+    $(window).width();
+    $(window).height();
+    $(document).height();
+
+
+</script>
+</body>
+</html>

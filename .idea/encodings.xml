@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://D:/JAVAresoures/JDBCtest/chapter02/src/com/qst/chapter02/ConnectionDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/DataStruct/Queue/QueueDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/DataStruct/Queue/QueueDemo02.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/Duoxiancheng/MoveButtonSwingTimerDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/Duoxiancheng/SoketDemo/ClientSocketDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/Duoxiancheng/SoketDemo/ServerSocketDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/Duoxiancheng/SoketDemo/servermultithreadsocket2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/Duoxiancheng/SoketDemo/serversocketmultithread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/Heimajinjie/Jihe/Collection/List/CollectionListArrayList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/javaMysql/chapterFive/BankAccountSynMethod.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/javaMysql/chapterFive/MoveButtonThreadDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/javaMysql/chapterFour/JTableDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/javaMysql/chapterOne/BufferedInputStreamDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/javaMysql/chapterOne/InputStreamReaderDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/javaMysql/chapterOne/NIO2FilesDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/javaMysql/chapterOne/WriterDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/javaMysql/chapterTwo/CallableStatementDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/javaMysql/chapterTwo/ConnectionDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/javaMysql/chapterTwo/DBDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/javaMysql/chapterTwo/DatabaseMetaDataDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/javaMysql/chapterTwo/ExecuteDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/javaMysql/chapterTwo/ExecuteUpdateDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/javaMysql/chapterTwo/PreparedStatementDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/javaMysql/chapterTwo/ResultSetMetaDataDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/javaMysql/chapterTwo/SavepointDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/javaMysql/chapterTwo/TransactionDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/javaMysql/chapterTwo/jdbcfileoutstream.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/javaMysql/chapterTwo/jdbcfromkeyboard.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/javaMysql/chapterTwo/jdbcfromkeyboardtotxt.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/viraha/oop/Yichang/Test02.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/viraha/oop/Yichang/YiChang01.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/viraha/oop/jieKou/ceShi.java" charset="GBK" />
+  </component>
+</project>

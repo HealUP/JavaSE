@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JavaScript</title>
+</head>
+<body>
+<p id = 'js'>Java技术栈</p>
+<div id="list">
+        <p id="se">JavaSE</p>
+        <p id="ee">JavaEE</p>
+        <p id="me">JavaME</p>
+</div>
+    <script>
+     var js = document.getElementById('js');
+     var list = document.getElementById('list');
+     list.appendChild(js);//追加到JavaME后面
+
+     //创建一个p标签 （节点）
+     var newP = document.createElement('p');//创建一个p标签
+     // 给p标签这个节点设置一个id
+     newP.id = 'newP';//相当于：<p id='newP'></p>
+     //也可以：
+     newP.setAttribute('id','newP');
+     //插入文本
+     newP.innerText = 'Hello';//相当于：<p id='newP'>'Hello'</p>
+    //追加到div后
+     list.appendChild(newP);
+     //创建一个有属性的标签 比如script
+    var myscript = document.createElement('script');
+    myscript.setAttribute('type','text/javascript');
+     list.appendChild(myscript);
+
+     //可以创建一个style标签
+     var mystyle = document.createElement('style');
+     mystyle.setAttribute('type','text/css');//style默认的属性
+     mystyle.innerHTML = 'body{background-color:red;}';
+     //到这就写好了style标签以及里面的body属性值，接下来追加到head标签的后面
+     //先获取到head的DOM节点并追加
+     //document.getElementsByTagName('head')[0].appendChild(mystyle);//注意：第0个才是head
+
+    //inser把一个新的节点插入到目标节点的前面：例如 将存在的js插入到ee节点前面
+    var ee = document.getElementById('ee');
+    var js = document.getElementById('js');
+    var list = document.getElementById('list');
+   //要找一个包含的节点，这里是list
+    list.insertBefore(js,ee);
+
+
+
+
+    </script>
+
+
+</body>
+</html>

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        /*//作用域
+        function dz() {
+            let x = 2;
+            x = x + 1;
+        }
+        x = x + 2;
+        //多个函数使用同名的变量，不影响，因为只在局部生效
+        function dh() {//外部函数
+            let x = 5;
+
+            function zh() {//内部函数
+                let x = 'AA';
+                console.log("内部："+x);
+            }
+            console.log("外部："+ x);
+            zh();
+        }
+        function dd(){
+            var y;
+            var x = x + y;
+            console.log(x);//y未赋值
+        }*/
+
+       /* var x = 2;
+        function da(){
+            console.log(x);
+        }
+
+*/
+
+        /*var x = 'SSSS000SSS'
+        window.alert(x)
+        var old_alert = window.alert;
+        old_alert(x);// window.alert()失效了
+        //恢复
+        window.alert = old_alert;
+        alert(x)*/
+
+        //唯一全局变量
+        var dzh = {};
+        //定义全局变量
+        dzh.name = 'dzhddd';
+        dzh.add = function (a,b){
+            return a * b;
+        }
+
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

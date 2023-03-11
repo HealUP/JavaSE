@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>操作表单</title>
+<!--    MD5在线工具类-->
+    <script src="https://cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.min.js">
+
+    </script>
+</head>
+<body>
+    <form action="#" method="post">
+        <p>
+            <span>用户名: </span>
+            <!--            要设置name属性，确保浏览器能抓到这个值-->
+            <input type="text" id="username" name="username">
+        </p>
+        <p>
+            <span>密码：</span><input type="password" id="password" name="password">
+        </p>
+
+        <button type="submit" onclick="checking()">提交</button>
+      </form>
+
+    <script>
+            function checking(){
+                var user = document.getElementById('username');
+                var pass = document.getElementById('password');
+
+            }
+        </script>
+</body>
+
+</html>

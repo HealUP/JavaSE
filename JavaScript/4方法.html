@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+  <script>
+      function getAge(){
+          //今年-出生
+          var now = new Date().getFullYear();
+          return now - this.birth;
+      }
+      var deng = {
+          name: 'AA',
+          birth: 1998,
+          age: getAge
+      }
+      getAge.apply(deng,[])//this指向了 deng，参数为空
+
+      var zhi = {
+          name: 'AA',
+          birth: 2000,
+          age: getAge
+      }
+      /*var deng = {
+          name: 'AA',
+          birth: 1998,
+          age: function (){
+              //今年-出生
+              var now = new Date().getFullYear();
+              return now - this.birth;
+          }
+      }*/
+  </script>
+</head>
+<body>
+
+</body>
+</html>

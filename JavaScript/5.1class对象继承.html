@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+  <script>
+    /*function student(name){
+        this.name = name;
+    }
+    //给student新增一个方法，采用原生的方式
+    student.prototype.hello  = function (){
+       console.log("d");
+    }*/
+    class Student{
+        constructor(name) {
+            this.name = name;
+        }
+        hello(){
+            alert('hello!!')
+        }
+    }
+    var xiao = new Student('xiaolan');
+
+    class smallStudent extends Student{
+        constructor(name,grade) {
+            super(name);//继承父类的
+            this.grade = grade;//自己的属性
+        }
+            myGrade(){//自己的方法
+                console.log("i am a small student!")
+            }
+    }
+    var xiaolv = new smallStudent("xiaolv",4);
+
+  </script>
+</head>
+<body>
+
+</body>
+</html>

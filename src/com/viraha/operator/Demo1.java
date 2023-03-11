@@ -1,0 +1,1 @@
+package com.viraha.operator;public class Demo1 {    //运算符    public static void main(String[] args) {//复制当前行到下一行，ctrl+d        int a=10;        int b=20;        int c=30;        int d=40;        System.out.println(a+b);        System.out.println(a-b);        System.out.println(c*b);        System.out.println(a/(double)b);//强制转换    }}

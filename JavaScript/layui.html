@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!--导入在线CDN-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/layui/2.7.6/layui.js"></script>
+</head>
+<body>
+
+<!-- 你的 HTML 代码 -->
+<script>
+    layui.use(['layer', 'form'], function(){
+        var layer = layui.layer;
+        var form = layui.form;
+
+        layer.msg('Hello World');
+    });
+</script>
+</body>
+</html>

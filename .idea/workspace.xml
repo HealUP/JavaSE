@@ -1,0 +1,1232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="071d605c-5d74-4212-8c62-15abcd04d360" name="Default Changelist" comment="add:init repository">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9e739a60-22c5-4745-8102-fe2a9d09325c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9e739a60-22c5-4745-8102-fe2a9d09325c/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9e739a60-22c5-4745-8102-fe2a9d09325c/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9e739a60-22c5-4745-8102-fe2a9d09325c/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9e739a60-22c5-4745-8102-fe2a9d09325c/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/fofo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/_2022_12_24_12_03___Default_Changelist_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2022_12_24_12_03_取消提交了变更_[Default_Changelist]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config/mysql.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dest/Bufferdemo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dest/fileWriter.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dest/out01demo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dest/outDemo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dest/radomDeom.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dest/random03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/10删除节点.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/11操作表单.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/12jqury.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/13选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/14事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/15jqure操作DOM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/1函数的定义.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2多个参数的问题.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/3变量的作用域.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/4方法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/5.1class对象继承.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/5对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/6JSON.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/7原型对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/8操作BOM对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/9DOM对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/layui.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/lib/jquery-3.6.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.en.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/demo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Time.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoOutputStream.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoinputStream.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dpcpconfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jori1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jori2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jori3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.28.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/DataStruct/Queue/ArrayQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/DataStruct/Queue/CircleArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/DataStruct/Queue/QueueDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/DataStruct/Queue/QueueDemo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/DataStruct/SparseArray/SparseArrayDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Enum/Info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Enum/Season.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Enum/Season1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Enum/Season1$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Enum/Season1$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Enum/Season1$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Enum/Season1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Enum/TestSeason.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Enum/TestSeason1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Fanxing/DAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Fanxing/ExamStudent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Fanxing/LastOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Fanxing/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Fanxing/Practice1/DAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Fanxing/Practice1/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Fanxing/Practice1/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Fanxing/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Fanxing/TestGeneric.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/JavaApi/Calendar/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/JavaApi/Date/DateFormat/D01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/JavaApi/Date/DateFormat/Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/JavaApi/Date/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/JavaApi/Date/Demo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/JavaApi/Date/TestRandom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/JavaApi/TestInstant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/JavaApi/TestMath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/JavaApi/TestRuntime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/JavaApi/TestSystem$St.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/JavaApi/TestSystem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/JavaApi/baozhuanglei/b01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/JavaApi/baozhuanglei/b02auto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/JavaApi/baozhuanglei/zhuanhuan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Jihe/Collection/List/ArrayListDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Jihe/Collection/List/CollectionListArrayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Jihe/Collection/List/CollectionListLinkList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Jihe/Collection/List/ForeachDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Jihe/Collection/List/IteratorDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Jihe/Collection/Set/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Jihe/Collection/Set/LinkeHashSetDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Jihe/Collection/Set/MyDate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Jihe/Collection/Set/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Jihe/Collection/Set/SetDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Jihe/Collection/Set/SetDemo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Jihe/Collection/Set/Stu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Jihe/Collection/Set/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Jihe/Collection/Set/TestDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Jihe/Collection/Set/TreeSetComparatorDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Jihe/Collection/Set/TreeSetComparatorDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Jihe/Collection/Set/TreeSetDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Jihe/Collections/TestSynchronizedxxx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Jihe/Collections/TestTools.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Jihe/Map/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Jihe/Map/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Jihe/Map/TestHashMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Jihe/Map/TestHashTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Jihe/Map/TestLinkedHashMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Jihe/Map/TestTreeMap$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/Jihe/Map/TestTreeMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/javaIo/demo/CopyOfFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/javaIo/demo/ObjectInputStreamDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/javaIo/demo/ObjectOutputStreamDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/javaIo/demo/豪哥.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/javaIo/domain/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/object/Equals02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/object/JiuJ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/object/Objects0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/object/Person01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/Heimajinjie/object/ToString01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/JDBC/Demo/TestDelete.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/JDBC/Demo/TestInsert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/JDBC/Demo/TestQuery.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/JDBC/Demo/TestUpdate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/JDBC/Demo02/TestDelete.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/JDBC/Demo02/TestInsert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/JDBC/Demo02/TestQuery.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/JDBC/Demo02/TestUpdate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/JDBC/Sql.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/JDBC/jdbcDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/ReviewMid_auterm/GetMax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/ReviewMid_auterm/GetSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/ReviewMid_auterm/JIEK.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/ReviewMid_auterm/Part2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/ReviewMid_auterm/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/ReviewMid_auterm/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/ReviewMid_auterm/testing/MyPrint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/ReviewMid_auterm/testing/MyPrintCircle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/ReviewMid_auterm/testing/MyPrintSquare.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/ReviewMid_auterm/testing/MyPrintTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/ReviewMid_auterm/testing/Mytest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/ReviewMid_auterm/testing/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/ReviewMid_auterm/testing/stu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/BankAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/BankAccountSynLock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/BankAccountSynMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/CallableFutureDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/IllegalThreadDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/IllegalThreadDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/JoinDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/JoinThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/LambdaCallableFutureDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/MainThreadDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/MoveButtonSwingTimerDemo$ButtonMoveListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/MoveButtonSwingTimerDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/MoveButtonThreadDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/MoveButtonTimerDemo$ButtonMoveTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/MoveButtonTimerDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/MultiThreadDemo$ButtonMoveListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/MultiThreadDemo$ColorChange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/MultiThreadDemo$TextChange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/MultiThreadDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/MyPriorityThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/NoSynBank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/PriorityDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/Producer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/RunnableDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/SynBlockBank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/SynLockBank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/SynMethodBank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/Task.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/ThreadDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/ThreadLifeDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/ThreadTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFive/WaitNotifyDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFour/JColorChooserDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFour/JColorChooserDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFour/JDialogDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFour/JDialogDemo$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFour/JDialogDemo$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFour/JDialogDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFour/JFileChooserDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFour/JFileChooserDemo$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFour/JFileChooserDemo$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFour/JFileChooserDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFour/JMenuDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFour/JOptionPaneDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFour/JOptionPaneDemo$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFour/JOptionPaneDemo$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFour/JOptionPaneDemo$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFour/JOptionPaneDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFour/JPopupMenuDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFour/JPopupMenuDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFour/JTableDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFour/JTableDemo$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFour/JTableDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFour/JToolBarDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFour/JTreeDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFour/JTreeDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFour/MyDialog$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterFour/MyDialog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterOne/BufferedInputStreamDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterOne/FileDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterOne/FileInputStreamDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterOne/FileOutputStreamDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterOne/FilenameFilterDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterOne/FilenameFilterDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterOne/InputStreamReaderDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterOne/NIO2FilesDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterOne/NIO2PathDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterOne/NIOBufferDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterOne/NIOFileChannelDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterOne/ObjectInputStreamDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterOne/ObjectOutputStreamDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterOne/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterOne/PrintStreamDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterOne/ReaderDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterOne/WriterDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/BorderLayoutDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/BoxLayoutDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/Calculator$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/Calculator$ButtonAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/Calculator$KeyAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/CardLayoutDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/ChangeColor$ButtonListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/ChangeColor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/ChangeColorAnonymous$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/ChangeColorAnonymous$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/ChangeColorAnonymous$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/ChangeColorAnonymous.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/FlowLayoutDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/GridLayoutDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/ImageIconDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/JButtonDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/JButtonDemo$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/JButtonDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/JComboBoxDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/JComboBoxDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/JFrameDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/JLabelDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/JListDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/JListDemo$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/JListDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/JPanelDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/KeyEventDemo$MyListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/KeyEventDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/MouseEventAdapterDemo$PaintListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/MouseEventAdapterDemo$ResetListenter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/MouseEventAdapterDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/MouseEventDemo$PaintListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/MouseEventDemo$ResetListenter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/MouseEventDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/NULLLayoutDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/RadioCheckDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/TextComponentDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/TextComponentDemo$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterThree/TextComponentDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterTwo/CallableStatementDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterTwo/Config.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterTwo/ConnectionDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterTwo/DBDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterTwo/DBUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterTwo/DatabaseMetaDataDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterTwo/ExecuteDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterTwo/ExecuteUpdateDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterTwo/JDBCDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterTwo/PreparedStatementDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterTwo/ResultSetMetaDataDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterTwo/SavepointDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterTwo/TransactionDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterTwo/jdbcfileoutstream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterTwo/jdbcfromkeyboard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/javaMysql/chapterTwo/jdbcfromkeyboardtotxt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/utils/jdbcUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/Annottation/Testannottation$MyAnnotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/Annottation/Testannottation$MyAnnotation2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/Annottation/Testannottation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/Arrays/A01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/Arrays/A02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/Arrays/A03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/Arrays/A04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/Arrays/A05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/Arrays/A06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/Arrays/A07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/Arrays/A08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/Arrays/A09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/Bowl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/Chopsticks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/DeadLockDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/Earth.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/Eating.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/I.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/ILove.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/JoinDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/LambdaDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/LambdaDemo$Like2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/LambdaDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/LambdaDemo02$1Love.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/LambdaDemo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/Like.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/Marry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/MyPriority.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/MyYield.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/PriorityDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/RaceDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/RunnableDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/SleepDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/SleepDemo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/StateDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/StaticProxyDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/StopDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/Sun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/ThreadDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/ThreadDemo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/WeddingCommpany.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/XianchengXiezuo/Chicken.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/XianchengXiezuo/Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/XianchengXiezuo/MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/XianchengXiezuo/PCDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/XianchengXiezuo/PCtwo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/XianchengXiezuo/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/XianchengXiezuo/PoorDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/XianchengXiezuo/Producer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/XianchengXiezuo/SynContainer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/XianchengXiezuo/Tv.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/XianchengXiezuo/Watcher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/YieldDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/You.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/daemonDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/gaoji/Lock2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/gaoji/LockDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/syn/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/syn/BuyTicket.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/syn/Drawing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/syn/SynDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/syn/TestJUC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/syn/UnsafeBankDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/syn/UnsafeBuyTickerDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/DuoXianCheng/syn/UnsafeList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/IoDemo/BufferDemo/BufferInoutStreamDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/IoDemo/BufferDemo/BufferReaderWriterDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/IoDemo/FileDemo/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/IoDemo/FileDemo/Demo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/IoDemo/FileDemo/Demo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/IoDemo/FileDemo/Demo04$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/IoDemo/FileDemo/Demo04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/IoDemo/FileDemo/Demo05$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/IoDemo/FileDemo/Demo05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/IoDemo/FileDemo/Demo06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/IoDemo/FileDemo/Demo07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/IoDemo/InOutputDemo/FileCopy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/IoDemo/InOutputDemo/FileCopy02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/IoDemo/InOutputDemo/FileReaderDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/IoDemo/InOutputDemo/FileWriterDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/IoDemo/InOutputDemo/InputStreamDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/IoDemo/InOutputDemo/outputStreamDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/IoDemo/byteToChar/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/IoDemo/转换流.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/Meathors/M01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/Meathors/M02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/Meathors/M03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/Meathors/M03_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/Meathors/M04DiGui.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/basement01/Day02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/basement01/Day2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/basement01/Doc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/basement01/day1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/javaShixun/part1/FileClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/javaShixun/part1/animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/javaShixun/part1/animals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/javaShixun/part1/dark.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/javaShixun/part1/dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/javaShixun/part1/lion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/ChouXianglei/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/ChouXianglei/Action.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/ChouXianglei/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/ChouXianglei/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/ChouXianglei/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/Duixiang/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/Duixiang/Ceshi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/Duixiang/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/Duixiang/Pet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/Duixiang/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/Duotai/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/Duotai/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/Duotai/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/HuiGu/OOP01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/HuiGu/OOP02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/HuiGu/OOP03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/HuiGu/OOP04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/HuiGu/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/HuiGu/Student01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/InstanOf/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/InstanOf/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/InstanOf/yanshi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/Neibul/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/Neibul/Outer$Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/Neibul/Outer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/Static/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/Static/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/TeXing/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/TeXing/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/TeXing/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/TeXing/Person2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/TeXing/Person3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/TeXing/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/TeXing/Student1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/TeXing/Student2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/TeXing/Student3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/TeXing/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/TeXing/person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/Yichang/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/Yichang/Test02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/Yichang/Test03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/Yichang/YiChang01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/Yichang/ZdyYiChang.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/jieKou/Timer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/jieKou/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/jieKou/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/jieKou/ceShi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/neiBuLei/ChengyuanNbl/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/neiBuLei/ChengyuanNbl/Outer$Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/neiBuLei/ChengyuanNbl/Outer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/neiBuLei/JubuNeibl/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/neiBuLei/JubuNeibl/Outer$1Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/neiBuLei/JubuNeibl/Outer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/neiBuLei/niming/Apple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/neiBuLei/niming/Application$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/oop/neiBuLei/niming/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/operator/Demo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/operator/Demo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/operator/Demo04_LJYSF.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/operator/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/operator/Demo2_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/operator/Demo5WYS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/operator/Demo5YSF.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/operator/DemoBJZ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/others/Animals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/others/Apple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/others/AppleDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/others/ChouxLDuotai/Dongwu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/others/ChouxLDuotai/dog12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/others/ChouxLDuotai/testing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/others/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/others/animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/others/color.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/others/student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/others/text.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/reflection/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/reflection/DengTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/reflection/Father.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/reflection/FieldDeng.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/reflection/JVM类加载器的类型.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/reflection/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/reflection/Son.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/reflection/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/reflection/Student2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/reflection/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/reflection/Test01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/reflection/Test02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/reflection/Test03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/reflection/Test04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/reflection/Test05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/reflection/Test06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/reflection/Test07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/reflection/Test08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/reflection/Test09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/reflection/Test10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/reflection/Test11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/reflection/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/scanner/TWO02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/scanner/TWO03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/scanner/TWO04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/scanner/TWO05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/scanner/Two01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/scanner/dd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/struct/Break.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/struct/DuoXuanZe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/struct/For.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/struct/ForLiTi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/struct/For_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/struct/Forend.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/struct/JiuJiuChengFa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/struct/ShuangXuanZe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/struct/ShunXu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/struct/SwitchCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/struct/SwitchString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/struct/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/struct/XuanZe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/struct/XunHuan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/struct/XunHuan02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/com/viraha/struct/ZhiShu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reader.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStruct/Queue/QueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStruct/Queue/QueueDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStruct/SparseArray/SparseArrayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStruct/Stack/isValid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/Enum/Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/Enum/TestSeason.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/Enum/TestSeason1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/Fanxing/DAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/Fanxing/ExamStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/Fanxing/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/Fanxing/Practice1/DAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/Fanxing/Practice1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/Fanxing/Practice1/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/Fanxing/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/Fanxing/TestGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/JavaApi/Calendar/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/JavaApi/Date/DateFormat/D01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/JavaApi/Date/DateFormat/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/JavaApi/Date/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/JavaApi/Date/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/JavaApi/Date/TestRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/JavaApi/TestInstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/JavaApi/TestMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/JavaApi/TestRuntime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/JavaApi/TestSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/JavaApi/baozhuanglei/b01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/JavaApi/baozhuanglei/b02auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/JavaApi/baozhuanglei/zhuanhuan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/Jihe/Collection/List/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/Jihe/Collection/List/CollectionListArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/Jihe/Collection/List/CollectionListLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/Jihe/Collection/List/ForeachDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/Jihe/Collection/List/IteratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/Jihe/Collection/Set/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/Jihe/Collection/Set/LinkeHashSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/Jihe/Collection/Set/MyDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/Jihe/Collection/Set/SetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/Jihe/Collection/Set/SetDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/Jihe/Collection/Set/TestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/Jihe/Collection/Set/TreeSetComparatorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/Jihe/Collection/Set/TreeSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/Jihe/Collections/TestSynchronizedxxx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/Jihe/Collections/TestTools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/Jihe/Map/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/Jihe/Map/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/Jihe/Map/TestHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/Jihe/Map/TestHashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/Jihe/Map/TestLinkedHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/Jihe/Map/TestTreeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/javaIo/demo/CopyOfFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/javaIo/demo/ObjectInputStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/javaIo/demo/ObjectOutputStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/javaIo/demo/豪哥.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/javaIo/domain/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/object/Equals02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/object/Objects0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/object/Person01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/object/ToString01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heimajinjie/object/jiujiuchengfabiao .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JDBC/Demo/TestDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JDBC/Demo/TestInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JDBC/Demo/TestQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JDBC/Demo/TestUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JDBC/Demo02/TestDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JDBC/Demo02/TestInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JDBC/Demo02/TestQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JDBC/Demo02/TestUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JDBC/Sql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JDBC/jdbcDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterFive/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterFive/BankAccountSynLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterFive/BankAccountSynMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterFive/CallableFutureDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterFive/IllegalThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterFive/JoinDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterFive/LambdaCallableFutureDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterFive/MainThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterFive/MoveButtonSwingTimerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterFive/MoveButtonThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterFive/MoveButtonTimerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterFive/MultiThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterFive/NoSynBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterFive/PriorityDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterFive/RunnableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterFive/SynBlockBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterFive/SynLockBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterFive/SynMethodBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterFive/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterFive/ThreadLifeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterFive/WaitNotifyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterFour/JColorChooserDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterFour/JDialogDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterFour/JFileChooserDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterFour/JMenuDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterFour/JOptionPaneDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterFour/JPopupMenuDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterFour/JTableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterFour/JToolBarDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterFour/JTreeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterOne/BufferedInputStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterOne/FileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterOne/FileInputStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterOne/FileOutputStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterOne/FilenameFilterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterOne/InputStreamReaderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterOne/NIO2FilesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterOne/NIO2PathDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterOne/NIOBufferDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterOne/NIOFileChannelDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterOne/ObjectInputStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterOne/ObjectOutputStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterOne/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterOne/PrintStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterOne/ReaderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterOne/WriterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterThree/BorderLayoutDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterThree/BoxLayoutDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterThree/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterThree/CardLayoutDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterThree/ChangeColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterThree/ChangeColorAnonymous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterThree/FlowLayoutDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterThree/GridLayoutDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterThree/ImageIconDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterThree/JButtonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterThree/JComboBoxDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterThree/JFrameDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterThree/JLabelDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterThree/JListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterThree/JPanelDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterThree/KeyEventDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterThree/MouseEventAdapterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterThree/MouseEventDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterThree/NULLLayoutDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterThree/RadioCheckDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterThree/TextComponentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterTwo/CallableStatementDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterTwo/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterTwo/ConnectionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterTwo/DBDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterTwo/DBUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterTwo/DatabaseMetaDataDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterTwo/ExecuteDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterTwo/ExecuteUpdateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterTwo/JDBCDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterTwo/PreparedStatementDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterTwo/ResultSetMetaDataDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterTwo/SavepointDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterTwo/TransactionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterTwo/jdbcfileoutstream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterTwo/jdbcfromkeyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaMysql/chapterTwo/jdbcfromkeyboardtotxt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/utils/jdbcUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/Annottation/Testannottation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/Arrays/A01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/Arrays/A02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/Arrays/A03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/Arrays/A04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/Arrays/A05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/Arrays/A06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/Arrays/A07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/Arrays/A08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/Arrays/A09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/DuoXianCheng/DeadLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/DuoXianCheng/JoinDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/DuoXianCheng/LambdaDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/DuoXianCheng/LambdaDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/DuoXianCheng/PriorityDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/DuoXianCheng/RaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/DuoXianCheng/RunnableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/DuoXianCheng/SleepDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/DuoXianCheng/SleepDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/DuoXianCheng/StateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/DuoXianCheng/StaticProxyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/DuoXianCheng/StopDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/DuoXianCheng/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/DuoXianCheng/ThreadDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/DuoXianCheng/XianchengXiezuo/PCDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/DuoXianCheng/XianchengXiezuo/PCtwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/DuoXianCheng/XianchengXiezuo/PoorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/DuoXianCheng/YieldDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/DuoXianCheng/daemonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/DuoXianCheng/gaoji/LockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/DuoXianCheng/syn/SynDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/DuoXianCheng/syn/TestJUC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/DuoXianCheng/syn/UnsafeBankDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/DuoXianCheng/syn/UnsafeBuyTickerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/DuoXianCheng/syn/UnsafeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/IoDemo/BufferDemo/BufferInoutStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/IoDemo/BufferDemo/BufferReaderWriterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/IoDemo/FileDemo/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/IoDemo/FileDemo/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/IoDemo/FileDemo/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/IoDemo/FileDemo/Demo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/IoDemo/FileDemo/Demo05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/IoDemo/FileDemo/Demo06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/IoDemo/FileDemo/Demo07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/IoDemo/InOutputDemo/FileCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/IoDemo/InOutputDemo/FileCopy02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/IoDemo/InOutputDemo/FileReaderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/IoDemo/InOutputDemo/FileWriterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/IoDemo/InOutputDemo/InputStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/IoDemo/InOutputDemo/outputStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/IoDemo/byteToChar/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/IoDemo/转换流.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/Meathors/M01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/Meathors/M02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/Meathors/M02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/Meathors/M03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/Meathors/M03_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/Meathors/M04DiGui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/basement01/Day02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/basement01/Day2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/basement01/Doc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/basement01/day1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/javaShixun/part1/FileClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/javaShixun/part1/animals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/javaShixun/part1/dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/ChouXianglei/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/ChouXianglei/Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/ChouXianglei/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/ChouXianglei/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/ChouXianglei/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/Duixiang/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/Duixiang/Ceshi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/Duixiang/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/Duixiang/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/Duixiang/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/Duotai/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/Duotai/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/Duotai/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/HuiGu/OOP01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/HuiGu/OOP02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/HuiGu/OOP03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/HuiGu/OOP04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/HuiGu/Student01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/InstanOf/yanshi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/Neibul/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/Static/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/Static/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/TeXing/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/TeXing/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/TeXing/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/TeXing/Person2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/TeXing/Person3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/TeXing/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/TeXing/Student1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/TeXing/Student2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/TeXing/Student3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/TeXing/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/TeXing/person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/Yichang/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/Yichang/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/Yichang/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/Yichang/YiChang01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/Yichang/ZdyYiChang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/jieKou/Timer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/jieKou/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/jieKou/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/jieKou/ceShi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/neiBuLei/ChengyuanNbl/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/neiBuLei/ChengyuanNbl/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/neiBuLei/JubuNeibl/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/neiBuLei/niming/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/oop/neiBuLei/niming/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/operator/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/operator/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/operator/Demo04_LJYSF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/operator/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/operator/Demo2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/operator/Demo5WYS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/operator/Demo5YSF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/operator/DemoBJZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/others/Animals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/others/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/others/AppleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/others/ChouxLDuotai/Dongwu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/others/ChouxLDuotai/dog12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/others/ChouxLDuotai/testing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/others/color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/others/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/others/text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/reflection/JVM类加载器的类型.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/reflection/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/reflection/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/reflection/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/reflection/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/reflection/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/reflection/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/reflection/Test07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/reflection/Test08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/reflection/Test09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/reflection/Test10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/reflection/Test11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/scanner/TWO02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/scanner/TWO03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/scanner/TWO04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/scanner/TWO05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/scanner/Two01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/scanner/dd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/struct/Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/struct/DuoXuanZe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/struct/For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/struct/ForLiTi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/struct/For_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/struct/Forend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/struct/JiuJiuChengFa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/struct/ShuangXuanZe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/struct/ShunXu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/struct/SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/struct/SwitchString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/struct/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/struct/XuanZe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/struct/XunHuan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/struct/XunHuan02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/viraha/struct/ZhiShu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/db.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="UML Sequence" />
+        <option value="Work Breakdown Structure" />
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/com/viraha/basement01/Day2.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/viraha/Arrays/A08.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/viraha/basement01/day1.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../environment/Java/jdk/src.zip!/java/io/FileNotFoundException.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/viraha/operator/Demo1.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/viraha/Arrays/A09.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1vLevgEPN4NmFkvr0q0HgQdc08j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="DefaultPlantUmlFileTemplate" value="Work Breakdown Structure" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="库" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.22528736" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.Heimajinjie.Jihe.Collection.Set" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\CODE\lib" />
+      <recent name="E:\CODE\libs" />
+      <recent name="E:\CODE" />
+      <recent name="E:\CODE\Source" />
+      <recent name="E:\CODE\src\com\Heimajinjie\Enum" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\CODE\src" />
+      <recent name="E:\CODE\lib" />
+      <recent name="E:\CODE\src\com\viraha\DuoXianCheng\XianchengXiezuo" />
+      <recent name="E:\CODE\src\com\viraha" />
+      <recent name="E:\CODE\libs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.b01">
+    <configuration name="JiuJ" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Heimajinjie.object.JiuJ" />
+      <module name="coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Heimajinjie.object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sql" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JDBC.Sql" />
+      <module name="coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JDBC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TWO02" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.viraha.scanner.TWO02" />
+      <module name="coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.viraha.scanner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDelete (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JDBC.Demo02.TestDelete" />
+      <module name="coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JDBC.Demo02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JDBC.Demo02.TestInsert" />
+      <module name="coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JDBC.Demo02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestQuery (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JDBC.Demo02.TestQuery" />
+      <module name="coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JDBC.Demo02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUpdate (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JDBC.Demo02.TestUpdate" />
+      <module name="coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JDBC.Demo02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="b01" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Heimajinjie.JavaApi.baozhuanglei.b01" />
+      <module name="coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Heimajinjie.JavaApi.baozhuanglei.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jdbcfromkeyboard" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaMysql.chapterTwo.jdbcfromkeyboard" />
+      <module name="coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javaMysql.chapterTwo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="071d605c-5d74-4212-8c62-15abcd04d360" name="Default Changelist" comment="" />
+      <created>1626346029860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626346029860</updated>
+      <workItem from="1638364412822" duration="426000" />
+      <workItem from="1638364855609" duration="1421000" />
+      <workItem from="1638366490019" duration="1960000" />
+      <workItem from="1638372825073" duration="3000" />
+      <workItem from="1638373090799" duration="1987000" />
+      <workItem from="1641466751492" duration="1968000" />
+      <workItem from="1645094807874" duration="932000" />
+      <workItem from="1645166872838" duration="613000" />
+      <workItem from="1645171596602" duration="561000" />
+      <workItem from="1645172260184" duration="3918000" />
+      <workItem from="1645259984459" duration="616000" />
+      <workItem from="1645435257163" duration="463000" />
+      <workItem from="1645435739274" duration="1248000" />
+      <workItem from="1645437018924" duration="216000" />
+      <workItem from="1645437251251" duration="3288000" />
+      <workItem from="1646553593856" duration="6591000" />
+      <workItem from="1647261582871" duration="670000" />
+      <workItem from="1647417049297" duration="3631000" />
+      <workItem from="1649233539935" duration="4814000" />
+      <workItem from="1649320283285" duration="6391000" />
+      <workItem from="1649425877313" duration="2000" />
+      <workItem from="1649838080551" duration="2742000" />
+      <workItem from="1650443047842" duration="5164000" />
+      <workItem from="1650456560627" duration="1846000" />
+      <workItem from="1650523090621" duration="131000" />
+      <workItem from="1650529345511" duration="4766000" />
+      <workItem from="1650553987740" duration="1895000" />
+      <workItem from="1650712413526" duration="13000" />
+      <workItem from="1650766419311" duration="4636000" />
+      <workItem from="1650876084275" duration="2628000" />
+      <workItem from="1651025786760" duration="5546000" />
+      <workItem from="1651047368234" duration="9836000" />
+      <workItem from="1651739635682" duration="2562000" />
+      <workItem from="1651760628115" duration="1130000" />
+      <workItem from="1652084433406" duration="1122000" />
+      <workItem from="1652087168853" duration="2373000" />
+      <workItem from="1652148871613" duration="5187000" />
+      <workItem from="1652587930163" duration="1000" />
+      <workItem from="1652689218121" duration="2969000" />
+      <workItem from="1652700134388" duration="1563000" />
+      <workItem from="1652702654062" duration="2341000" />
+      <workItem from="1652714757774" duration="2806000" />
+      <workItem from="1652753520597" duration="5647000" />
+      <workItem from="1652762621616" duration="782000" />
+      <workItem from="1652763430660" duration="1672000" />
+      <workItem from="1652768886731" duration="11000" />
+      <workItem from="1652794001636" duration="8903000" />
+      <workItem from="1652851775853" duration="1926000" />
+      <workItem from="1652863971225" duration="3205000" />
+      <workItem from="1652952748092" duration="604000" />
+      <workItem from="1653104088432" duration="595000" />
+      <workItem from="1653360279310" duration="1747000" />
+      <workItem from="1653402586174" duration="4505000" />
+      <workItem from="1653482122795" duration="1786000" />
+      <workItem from="1653565009831" duration="313000" />
+      <workItem from="1654088931712" duration="644000" />
+      <workItem from="1656224661107" duration="49000" />
+      <workItem from="1656230097991" duration="908000" />
+      <workItem from="1656306628101" duration="15236000" />
+      <workItem from="1656414620432" duration="2366000" />
+      <workItem from="1656434487601" duration="6891000" />
+      <workItem from="1656573085051" duration="1614000" />
+      <workItem from="1656587386520" duration="1839000" />
+      <workItem from="1656659067377" duration="11368000" />
+      <workItem from="1656768672816" duration="5247000" />
+      <workItem from="1656854161888" duration="7122000" />
+      <workItem from="1656915077297" duration="26518000" />
+      <workItem from="1656997660392" duration="19369000" />
+      <workItem from="1657027601219" duration="4904000" />
+      <workItem from="1657179790243" duration="15359000" />
+      <workItem from="1657200305561" duration="5345000" />
+      <workItem from="1657247574120" duration="1889000" />
+      <workItem from="1657372280850" duration="1738000" />
+      <workItem from="1657522637454" duration="13322000" />
+      <workItem from="1657696651532" duration="21767000" />
+      <workItem from="1657762299204" duration="2015000" />
+      <workItem from="1657765278768" duration="316000" />
+      <workItem from="1657765614412" duration="1392000" />
+      <workItem from="1657769663252" duration="8607000" />
+      <workItem from="1657788124458" duration="4682000" />
+      <workItem from="1658197562038" duration="19050000" />
+      <workItem from="1658243993280" duration="288000" />
+      <workItem from="1658281078852" duration="15500000" />
+      <workItem from="1658366418275" duration="22829000" />
+      <workItem from="1658456901035" duration="9069000" />
+      <workItem from="1658500106206" duration="596000" />
+      <workItem from="1658557921767" duration="8674000" />
+      <workItem from="1658590387547" duration="16432000" />
+      <workItem from="1658657145826" duration="19000" />
+      <workItem from="1658715800656" duration="2168000" />
+      <workItem from="1658800996356" duration="718000" />
+      <workItem from="1658889811812" duration="4046000" />
+      <workItem from="1658916469829" duration="6653000" />
+      <workItem from="1658973278651" duration="13194000" />
+      <workItem from="1658998823202" duration="4805000" />
+      <workItem from="1659066672647" duration="3826000" />
+      <workItem from="1659083092866" duration="774000" />
+      <workItem from="1659713502428" duration="19000" />
+      <workItem from="1659925268056" duration="30017000" />
+      <workItem from="1660094458005" duration="20995000" />
+      <workItem from="1660125433413" duration="8460000" />
+      <workItem from="1660182760133" duration="962000" />
+      <workItem from="1660271912819" duration="185000" />
+      <workItem from="1660279984339" duration="594000" />
+      <workItem from="1660486458380" duration="1000" />
+      <workItem from="1660621207263" duration="22299000" />
+      <workItem from="1660795009674" duration="395000" />
+      <workItem from="1660810420632" duration="2000" />
+      <workItem from="1660833270264" duration="382000" />
+      <workItem from="1660833724295" duration="20000" />
+      <workItem from="1663736755847" duration="802000" />
+      <workItem from="1663748081210" duration="4253000" />
+      <workItem from="1663923822018" duration="69000" />
+      <workItem from="1664112681299" duration="11000" />
+      <workItem from="1664194016168" duration="383000" />
+      <workItem from="1671852111295" duration="2517000" />
+      <workItem from="1678554778741" duration="183000" />
+      <workItem from="1678554981464" duration="541000" />
+    </task>
+    <task id="LOCAL-00001" summary="初次提交">
+      <created>1671853461622</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671853461622</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="4d20f796-314e-4937-b73f-38e9f88ece08">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="656a0b05-18fa-4ad7-b018-2debebac45ee">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="8b16584c-1164-45fc-9b51-8ae9c112457e">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="初次提交" />
+    <MESSAGE value="add:init repository" />
+    <option name="LAST_COMMIT_MESSAGE" value="add:init repository" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DemoBJZ_java$JDBCDemo.ic" NAME="JDBCDemo Coverage Results" MODIFIED="1652153049043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.javaMysql.*</FILTER>
+    </SUITE>
+  </component>
+</project>

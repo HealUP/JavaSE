@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        //Date 对象
+        var n = new Date();
+        n.getFullYear();//年
+        n.getMonth();//月
+        n.getDate();//日
+        n.getDay();//星期几
+        n.getHours();//时
+        n.getMinutes();//分
+        n.getSeconds();//秒
+
+        n.getTime()//时间戳 全世界统一的，表示
+        //从1970年1.1 00:00:00 到现在的时间的毫秒值
+
+        //转换
+        n = new Date(n.getTime());
+
+        //转换为本地时间
+        n.toLocaleString();
+        //转换为相应时区  的时间
+        n.toGMTString();
+    </script>
+</head>
+<body>
+
+</body>
+</html>

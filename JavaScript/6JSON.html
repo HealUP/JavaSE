@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+  <script>
+      var person = {
+          name: "dengzhh",
+          age: 24,
+          sex: '男'
+      }
+      //对象转化为json字吧v符串
+      var jsonPerson = JSON.stringify(person);
+      //json字符串转化为对象
+      var obj = JSON.parse('{"name":"dengzhh","age":24,"sex":"男"}')//单引号括起来
+
+      var obj = '{"name":"dengzhh","age":24,"sex":"男"}';
+      var jsonPerson = {"name":"dengzhh", "age":24, "sex":"男"};
+  </script>
+</head>
+<body>
+
+</body>
+</html>
